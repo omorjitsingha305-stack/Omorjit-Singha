@@ -1,0 +1,6 @@
+{
+  "name": "Omorjit Singha Online Booking Services",
+  "description": "Official online portal for railway, flight, bus bookings, passport services, driving license assistance, and job application support. Submit requests, direct phone consultation, and manage customer records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
